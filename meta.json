@@ -81,7 +81,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Camera App",
+            "projectName": "Camera App_V2",
             "settings": {
                 "teamId": null,
                 "appName": null,
@@ -192,7 +192,13 @@
             "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
-            "variables": {},
+            "variables": {
+                "7ee778eb-9cfe-4f56-869e-1cd8c6bbfc19": {
+                    "scope": "APP",
+                    "name": "voice",
+                    "screenId": "49650931-7fa7-4e24-9a97-e3ec5d274bdb"
+                }
+            },
             "defaultDesignerDevice": "PHONE",
             "defaultDesignerOrientation": "PORTRAIT",
             "schemaVersion": 2,
